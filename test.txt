@@ -1,0 +1,18 @@
+- model
+	-db.php
+	-dbconfig.ini
+	-model_task.php
+	-model_user.php
+-src
+	-images
+		-addTask.png
+		-editTask.png
+		-viewTasks.png
+-view
+	-add_task.php
+	-edit_task.php
+	-login.php
+	-logoff.php
+	-register.php
+	-view_tasks.php
+-index.php
